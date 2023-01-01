@@ -1,0 +1,13 @@
+DefaultLanguage ru
+AddDefaultCharset utf-8
+#AddDefaultCharset windows-1251
+Header set Access-Control-Allow-Origin "*"
+SetEnv PYTHONIOENCODING utf-8
+Options +Indexes
+DirectoryIndex index.html
+AuthUserFile /etc/apache2/.htpasswd
+AuthType Basic
+AuthName "notroot"
+Require valid-user
+#htpasswd -c .htpasswd notroot
+#/var/www/etc/.htpasswd
