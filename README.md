@@ -2,17 +2,15 @@
 
 https://github.com/vmarshirov/root/blob/main/zVirtualBox/
 
-#### Пример удаленного сервера
+#### Пример и конфигурирование удаленного сервера
+
+Видео: https://disk.yandex.ru/d/pWLFnb5xtd2HqA
 
 https://www.reg.ru/
 
 https://cloud.reg.ru/panel/
 
-
-#### Конфигурирование сервера
-
-
-Видео: https://disk.yandex.ru/d/pWLFnb5xtd2HqA
+#### 
 
 g00u00 g01
 
