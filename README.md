@@ -4,10 +4,9 @@ https://github.com/vmarshirov/root/blob/main/zVirtualBox/
 
 #### Пример удаленного сервера
 
+https://www.reg.ru/
 
-https://www.reg.ru/vps/cloud/
-
-https://www.reg.ru/user/account/#/
+https://cloud.reg.ru/panel/
 
 
 #### Конфигурирование сервера
