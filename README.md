@@ -12,7 +12,7 @@ https://cloud.reg.ru/panel/
 #### Конфигурирование сервера
 
 
-Видео: https://disk.yandex.ru/d/fFOv1KTzCPo0IA
+Видео: https://disk.yandex.ru/d/pWLFnb5xtd2HqA
 
 g00u00 g01
 
