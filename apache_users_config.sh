@@ -157,3 +157,5 @@ systemctl restart apache2
 
 echo "Проверить  браузером c своими IP-адресами..."
 echo "http://127.0.0.1:8001/cgi-bin/form_new.py"
+
+echo "systemctl stop apache2 - при необходимости"
